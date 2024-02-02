@@ -1,0 +1,6 @@
+server:
+  port: 8088
+
+
+wechat:
+  verifyToken: d2ada28999e3474a8d2b7fc997288a4d
